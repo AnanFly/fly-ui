@@ -12,7 +12,7 @@ function App() {
         size={ButtonSize.Small}
         href="https://www.baidu.com"
       >
-        按钮
+        链接
       </Button>
       <Button btnType={ButtonType.Primary}>按钮</Button>
     </div>
