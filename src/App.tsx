@@ -14,7 +14,7 @@ function App() {
       >
         链接
       </Button>
-      <Button btnType={ButtonType.Primary}>按钮</Button>
+      <Button btnType={ButtonType.Primary}>按钮1</Button>
     </div>
   );
 }
