@@ -1,6 +1,6 @@
 module.exports = {
   parser:'@typescript-eslint/parser',
-  extends: ['airbnb-base', 'prettier','plugin:@typescript-eslint/recommended'],
+  extends: ['prettier','plugin:@typescript-eslint/recommended'],
   plugins: ['prettier','@typescript-eslint'],
   rules: {
     'object-curly-newline': ['error', { multiline: true, consistent: true }],
